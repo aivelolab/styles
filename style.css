@@ -1,3 +1,4 @@
+<style>
     /* 초기화 및 기본 스타일 */
     * { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
@@ -1117,3 +1118,5 @@ html:not([data-theme='dark']) .btn-theme-toggle:hover,
 .ai-news-list a:hover{
     color:#0ea5e9;
 }  
+
+</style>
