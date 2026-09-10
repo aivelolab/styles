@@ -1,5 +1,6 @@
-<style>
-    /* aivelolab 초기화 및 기본 스타일 */
+  @charset "utf-8";
+  
+  /* 초기화 및 기본 스타일 */
     * { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
     body { font-family: var(--font-sans); background-color: var(--bg-body); color: var(--text-main); line-height: 1.6; word-break: keep-all; }
@@ -1117,6 +1118,6 @@ html:not([data-theme='dark']) .btn-theme-toggle:hover,
 
 .ai-news-list a:hover{
     color:#0ea5e9;
-}  
+}
 
-</style>
+
